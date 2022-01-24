@@ -1,0 +1,9 @@
+.category-aktif{
+    background-color: #198754;
+    color: white;
+}
+
+.category-aktif:hover{
+    background-color: #0e4d2f;
+    color: white;
+}
