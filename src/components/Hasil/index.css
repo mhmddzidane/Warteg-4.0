@@ -1,0 +1,9 @@
+@media only screen and (max-height : 1000px){
+    .hasil{
+        height: 390px;
+    }
+}
+
+.overflow-auto::-webkit-scrollbar{
+    display: none;
+}

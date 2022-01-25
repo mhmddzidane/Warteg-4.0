@@ -1,0 +1,9 @@
+@media only screen and (max-height : 1000px){
+    .menu{
+        height: 800px;
+    }
+}
+
+.overflow-auto::-webkit-scrollbar{
+    display: none;
+}
